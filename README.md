@@ -1,26 +1,34 @@
 # Responsive Landing Page
 
-This is a simple and modern responsive landing page built using **HTML**, **CSS**, and **JavaScript**. It is designed to look great on all devices including mobile, tablet, and desktop.
+This is a simple and responsive landing page built with HTML, CSS, and a little bit of JavaScript. It is fully responsive and works across different devices.
 
 ## Features
 
-- Responsive layout
+- Modern and clean design
+- Responsive layout for mobile, tablet, and desktop
+- Smooth scrolling navigation
 - Hero section with call-to-action
-- Services or features section
-- Contact form UI
-- Footer with links
+- Services/about section
+- Contact form or footer
 
 ## Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (basic interactions)
 
-## How to Use
+## Getting Started
 
-1. Clone or download this repository
-2. Open `index.html` in your browser
-3. Customize content as needed
+To run this project locally:
 
-## Folder Structure
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jayanth-thupakula/codesoft_task1.git
 
+    Navigate to the project folder:
+
+    cd codesoft_task1
+
+    Open index.html in your browser.
+
+That's it! You're good to go.
